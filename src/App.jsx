@@ -1,3 +1,4 @@
+import { Ejercicio2 } from "./components/utils/Ejercicio2.jsx";
 import { BotonGeneral } from "./components/utils/BotonGeneral"
 import { ComponenteBotones } from './components/utils/ComponenteBotones.jsx';
 import { Ejercicio01 } from "./components/utils/Ejercicio01"
@@ -14,6 +15,7 @@ function App() {
       </div>
     </div>
     <ComponenteBotones/>
+    <Ejercicio2/>
     </>
   )
 }
