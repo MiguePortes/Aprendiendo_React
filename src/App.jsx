@@ -9,6 +9,7 @@ import { Ejercicio00 } from "./components/utils/Ejercicio00.jsx";
 import { EjercicioUseState003 } from "./components/utils/Ejercicios-002/EjercicioUseState003.jsx";
 import { EjercicioUseState004 } from './components/utils/Ejercicios-002/EjercicioUseState004';
 import EjInput01 from "./components/Ejercicios-003/EjInput01.jsx";
+import EjInput02 from "./components/Ejercicios-003/EjInput02.jsx";
 function App() {
   return (
     <>
@@ -23,6 +24,7 @@ function App() {
     </div>  
     {/* <EjercicioUseState004/> */}
     <EjInput01/>
+    <EjInput02/>
     </>
   )
 }
