@@ -1,4 +1,4 @@
-export const Ejercicio02 = () => {
+export const Ejercicio2 = () => {
     //logica de componente
     //variable / constante
     //hooks
